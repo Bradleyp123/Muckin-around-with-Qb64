@@ -1,0 +1,13 @@
+annoyingly but expectedly the way to name and give applications icons is weird.
+"
+$EXEICON = 'path/to/icon-image'
+_TITLE "Title Bar Text"
+"
+is how you name and icon a application.
+
+some other cool things I'll have to look into is the addition 
+and use of dll's in code aka 
+1. not everything is in the exe
+2. you can make open gl calls 'n shit
+3. even more low level stuff. that's technically cross compatible 
+if you use the QB64 dll format.
